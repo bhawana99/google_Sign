@@ -1,7 +1,4 @@
-.g-signin2
-{
-    visibility:hidden;
-}
+
 .gin-signin2:after
 {
 	content:'Sign in with g+';
