@@ -1,0 +1,14 @@
+.g-signin2
+{
+    visibility:hidden;
+}
+.gin-signin2
+{
+	content:'Sign in with g+';
+	visibility:visible;
+	margin:auto;
+	padding-left:5px;
+	top:2px;
+	background-color:red;
+	display:block;
+}
